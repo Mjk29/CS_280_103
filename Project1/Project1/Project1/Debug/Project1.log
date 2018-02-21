@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\matt\documents\njit\2016\fall\cs_280_103\project1\project1\project1\source.cpp(182): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> C:\Users\Matt\Documents\NJIT\2016\Fall\CS_280_103\Project1\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\Matt\Documents\NJIT\2016\Fall\CS_280_103\Project1\Project1\Debug\Project1.pdb (Partial PDB)
